@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 style="color: yellow;"> SAMPLE TITLE HERE</h1>
+<h1 style="items-center;"> SAMPLE TITLE HERE</h1>
